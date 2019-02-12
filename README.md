@@ -2,7 +2,7 @@ molssi-math
 ==============================
 [//]: # (Badges)
 [![Travis Build Status](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/molssi-math.png)](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/molssi-math)
-[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/REPLACE_WITH_APPVEYOR_LINK/branch/master?svg=true)](https://ci.appveyor.com/project/REPLACE_WITH_OWNER_ACCOUNT/molssi-math/branch/master)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eleba3jvioay89d4/branch/master?svg=true)](https://ci.appveyor.com/project/monikakodrycka/molssi/branch/master)
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molssi-math/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molssi-math/branch/master)
 
 My first project with cookiecutter
